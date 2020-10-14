@@ -1,3 +1,6 @@
 Zmian07b
 Dodano asystenta pomocy
 naprawa błędów -hotFix-001
+oraz
+Uproszczenie interfejsu graficznego 
+easierApp
