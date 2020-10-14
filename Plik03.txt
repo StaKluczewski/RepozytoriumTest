@@ -1,1 +1,3 @@
 Zmian07b
+Dodano asystenta pomocy
+naprawa błędów -hotFix-001
