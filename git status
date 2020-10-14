@@ -1,0 +1,73 @@
+[33mcommit d1f85a282fe6ea4eea53c46834d0e1e7b351489f[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: Stanislaw Kluczewski <stanklu098@student.polsl.pl>
+Date:   Wed Oct 7 15:18:06 2020 +0200
+
+    Zmiana06
+
+[1mdiff --git a/Plik01.txt b/Plik01.txt[m
+[1mindex 4d75d8d..04e2563 100644[m
+[1m--- a/Plik01.txt[m
+[1m+++ b/Plik01.txt[m
+[36m@@ -1,4 +1,5 @@[m
+[31m-Zmiana01[m
+[32m+[m[32mZmiana01 - Zmiana06[m
+ Zmiana02 Zmiana02a[m
+ Zmiana03[m
+ Zmiana04[m
+[32m+[m[32mZmiana05[m
+[1mdiff --git a/Plik03.txt b/Plik03.txt[m
+[1mnew file mode 100644[m
+[1mindex 0000000..e69de29[m
+
+[33mcommit 9972b3da4f7bc97adc0a62987922d677b2d557e1[m
+Author: Stanislaw Kluczewski <stanklu098@student.polsl.pl>
+Date:   Wed Oct 7 15:07:36 2020 +0200
+
+    Dodano plik Plik02.txt
+
+[1mdiff --git a/Plik02.txt b/Plik02.txt[m
+[1mnew file mode 100644[m
+[1mindex 0000000..e69de29[m
+
+[33mcommit 1326a1166f2df65301f8650eea547c7ac509ad05[m
+Author: Stanislaw Kluczewski <stanklu098@student.polsl.pl>
+Date:   Wed Oct 7 15:00:41 2020 +0200
+
+    Zmiana04
+
+[1mdiff --git a/Plik01.txt b/Plik01.txt[m
+[1mindex 803b7e8..4d75d8d 100644[m
+[1m--- a/Plik01.txt[m
+[1m+++ b/Plik01.txt[m
+[36m@@ -1,2 +1,4 @@[m
+ Zmiana01[m
+[31m-Zmiana02[m
+\ No newline at end of file[m
+[32m+[m[32mZmiana02 Zmiana02a[m
+[32m+[m[32mZmiana03[m
+[32m+[m[32mZmiana04[m
+
+[33mcommit 6124092481b5af05a62b6dd1b9fc74694a91cb84[m
+Author: Stanislaw Kluczewski <stanklu098@student.polsl.pl>
+Date:   Wed Oct 7 14:46:56 2020 +0200
+
+    Zmiana02
+
+[1mdiff --git a/Plik01.txt b/Plik01.txt[m
+[1mindex e69de29..803b7e8 100644[m
+[1m--- a/Plik01.txt[m
+[1m+++ b/Plik01.txt[m
+[36m@@ -0,0 +1,2 @@[m
+[32m+[m[32mZmiana01[m
+[32m+[m[32mZmiana02[m
+\ No newline at end of file[m
+
+[33mcommit 23890faddf85f639513417fdc3129528995bbc13[m
+Author: Stanislaw Kluczewski <stanklu098@student.polsl.pl>
+Date:   Wed Oct 7 14:34:58 2020 +0200
+
+    Dodanie Pliku
+
+[1mdiff --git a/Plik01.txt b/Plik01.txt[m
+[1mnew file mode 100644[m
+[1mindex 0000000..e69de29[m
