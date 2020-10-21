@@ -4,3 +4,4 @@ naprawa błędów -hotFix-001
 oraz
 Uproszczenie interfejsu graficznego 
 easierApp
+Zmiana2-21.10.2020r.
