@@ -7,3 +7,5 @@ easierApp
 Zmiana2-21.10.2020r.
 
 Zmiana 09:23 28.10.2020r.
+
+..
